@@ -1,2 +1,2 @@
 # W3SCHOOL-MAQUITTE
-<img src="mockup.png" alt="mockup"/>
+<img src="mockup.jpg" alt="mockup"/>
